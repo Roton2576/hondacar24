@@ -1,0 +1,13 @@
+.homeProductBg{
+     background-image: url("https://i.ibb.co/7jMnBv8/bgbg.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+     padding-bottom: 100px;
+}
+.addProductTextarea{
+     height: 120px;
+}
+.adminCarImageH{
+     width: 100px;
+     height: 80px;
+}
